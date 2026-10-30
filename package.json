@@ -1,0 +1,7 @@
+{
+    "scripts": {
+    "git:init": "node scripts/init.js",
+    "git:commit": "node scripts/commit.js",
+    "git:revert": "node scripts/revert.js"
+  }
+}
